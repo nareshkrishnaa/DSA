@@ -12,7 +12,7 @@ public class TowerOfHanoi
     }
     public static void main(String[] args) {
 
-        hanoi(3,1,2,3);
+        hanoi(4,1,2,3);
 
     }
 }
